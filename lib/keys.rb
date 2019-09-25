@@ -10,6 +10,6 @@ require 'pry'
 
 def get_the_keys(groceries)
 
-return get_the_keys.keys
+return groceries.keys
 
 end
